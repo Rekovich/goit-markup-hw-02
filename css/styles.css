@@ -28,7 +28,7 @@ ul{
     font-family: 'Raleway', sans-serif;
     font-weight: 700;
     font-size: 26px;
-    line-height: 31px;
+    line-height: 1,1923;
     letter-spacing: 0.03em;
     color: var(--black-color);
     text-decoration: none;
@@ -60,7 +60,7 @@ ul{
 }
 .auth-nav{
     font-weight: 500;
-    line-height: 16px;
+    line-height: 1,1428;
     letter-spacing: 0.02em;
     text-decoration: none;
     color: var(--secondary-text-color);
@@ -85,7 +85,7 @@ ul{
 .hero .hero-title{
     font-weight: 900;
     font-size: 44px;
-    line-height: 60px;
+    line-height: 1,3636;
     letter-spacing: 0.06em;
     text-align: center;
     text-transform: uppercase;
@@ -94,7 +94,7 @@ ul{
 .hero .hero-button{
     font-weight: 700;
     font-size: 16px;
-    line-height: 30px;
+    line-height: 1,875;
     letter-spacing: 0.06em;
     color: var(--primary-white-color);
     background-color: var(--accent-color);
@@ -158,6 +158,7 @@ ul{
 }
 .adress .footer-adress{
     text-decoration: none;
+    font-style: normal;
     color: var(--primary-white-color);   
     }
 
@@ -215,6 +216,6 @@ ul{
      color: var(--primary-text-color);
 }
 .work-list .text{
-    line-height: 30px;
+    line-height: 1,875;
     color: var(--secondary-text-color);
 }
