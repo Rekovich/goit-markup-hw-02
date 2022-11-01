@@ -219,3 +219,6 @@ ul{
     line-height: 1,875;
     color: var(--secondary-text-color);
 }
+.work-list .referal{
+    text-decoration: none;
+}
