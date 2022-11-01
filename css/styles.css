@@ -167,6 +167,7 @@ ul{
         color: var(--accent-color);
     }
 .adress .mail{
+    font-style: normal;
     text-decoration: none;
     color: var(--transparent-color);
 }
@@ -175,6 +176,7 @@ ul{
     color: var(--accent-color);
 }
 .adress .tel{
+    font-style: normal;
     text-decoration: none;
     color: var(--transparent-color);
 }
